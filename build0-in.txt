@@ -1,0 +1,18 @@
+MY COOL WEB SITE
+#cc2222
+no
+6
+#000000
+#00cccc
+First Paragraph
+One day, I was born
+no
+
+Now
+I am a warrior for academic justice.
+
+images/logo.jpg
+yes
+images/WOW.jpg
+n
+n
